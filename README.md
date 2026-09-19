@@ -228,7 +228,7 @@ I believe the best way to grow technically is to combine learning with hands-on 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img
     src="./profile/stats.svg"
     height="180em"
