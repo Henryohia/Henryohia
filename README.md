@@ -226,9 +226,12 @@ I believe the best way to grow technically is to combine learning with hands-on 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
-<!-- Optional GitHub statistics can be added later as your profile develops. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henryohia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Henry Ohia's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryohia&layout=compact&hide_border=true&langs_count=8" alt="Henry Ohia's Top Languages" />
+</p>
 
 ---
 
