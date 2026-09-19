@@ -228,13 +228,17 @@ I believe the best way to grow technically is to combine learning with hands-on 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<!-- GitHub Statistics -->
 <p align="center">
   <img
     src="./profile/stats.svg"
+    height="180em"
     alt="Henry Ohia's GitHub Statistics"
+  />
+
+  <img
+    src="./profile/top-langs.svg"
+    height="180em"
+    alt="Henry Ohia's Top Languages"
   />
 </p>
 
