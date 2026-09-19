@@ -228,9 +228,38 @@ I believe the best way to grow technically is to combine learning with hands-on 
 
 ## 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Henryohia&show_icons=true&hide_border=true" alt="Henry Ohia GitHub Stats" /> </p>
+<div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryohia&layout=compact&hide_border=true&langs_count=6" alt="Henry Ohia Top Languages" /> </p>
+  <!-- General Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <!-- Most Used Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+
+  <br />
+
+  <!-- Contribution Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+---
+
+### 🛡️ Tech Stack & Badges
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
