@@ -230,14 +230,14 @@ I believe the best way to grow technically is to combine learning with hands-on 
 
 <div align="center">
 
-  <!-- General Stats Card -->
-  <a href="https://github.com/Henryohia/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henryohia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<!-- General Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=henryohia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 
   <!-- Most Used Languages Card -->
-  <a href="https://github.com/Henryohia/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryohia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=henryohia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 
   <br />
